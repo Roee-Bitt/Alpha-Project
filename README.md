@@ -6,4 +6,5 @@ The repository contains 2 files - <br/>
 &emsp;&emsp;Wer.py - custom-written module containing functions for calculating WER (Word Error Rate) metric of an ASR system. <br/><br/>
 The goal of the research was to find the relationship between the WER calulated for a set of speakers, to their accent. 
 More specifically, find the effect of different American dialects on the ability of the ASR system to correctly recognize the speakers' speech (measured with WER metric). <br/><br/>
-The ASR system used in this research is open-source Whisper model by OpenAI. <br/>
+The ASR system used in this research is open-source Whisper model by OpenAI. <br/><br/>
+One may not use and/or copy code and/or results present in this repository at all.
